@@ -1,4 +1,4 @@
-# DMT
+# DMT | Zip Password: penis | 
 DMT is a gdi malware sample I made in 6 weeks 6 days in python nothing special and donno what to do with it so Im going to upload the source code on github so
 more people make gdi malware cuz its cool I guess also you will need to pip install a lot of shit I dont know how much but I do know you need pywin32, winapy,
 and opencv. That is all I know because when I made it I had way to many libaries installed and Im right now doing this very fast so Im not going to check
@@ -10,4 +10,4 @@ I didn't know I was going to upload the source code, so yeah deal with it I gues
 project I ever made! Made this a while ago, but a lot of time went into it. It was never meant to be a legit real world malware it was just for fun :D. 
 I dont know how many payloads this has. Subscribe to Itzsten on youtube because he is cool, if you came to his channel because of me just say
 "from a DuckCodedWeiner" you should do it because. Also go to his discord server thing: https://discord.gg/svdBA2cg8w and dont be a script kitty :D but you can
-take stuff off this because that is why its here
+take stuff off this because that is why its here 
