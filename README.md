@@ -4,4 +4,5 @@ more people make gdi malware cuz its cool I guess also you will need to pip inst
 and opencv. That is all I know because when I made it I had way to many libaries installed and Im right now doing this very fast so Im not going to check
 because Im not serious. Subscribe to Itzsten on youtube because he is cool, that is how you pay me. If you do get this working and see super cool shaders at
 the start like twisting in weird parts of the screen its probably his shader engine but the rest I made. Also the EXEs doesnt have his shader engine because
-it kept giving me issues so I gave up and just chopped it off. By the way it need a bit of ram to run but the cool effects are harmless. 
+it kept giving me issues so I gave up and just chopped it off. By the way it need a bit of ram to run but the cool effects are harmless. Oh yeah winapy needs
+c++ build tools I think just search up the libaries if your having issues.
