@@ -5,4 +5,7 @@ and opencv. That is all I know because when I made it I had way to many libaries
 because Im not serious. Subscribe to Itzsten on youtube because he is cool, that is how you pay me. If you do get this working and see super cool shaders at
 the start like twisting in weird parts of the screen its probably his shader engine but the rest I made. Also the EXEs doesnt have his shader engine because
 it kept giving me issues so I gave up and just chopped it off. By the way it need a bit of ram to run but the cool effects are harmless. Oh yeah winapy needs
-c++ build tools I think just search up the libaries if your having issues.
+c++ build tools I think just search up the libaries if your having issues. Also if you look at the code you will 100% see how messy it is lmfao, at the time
+I didn't know I was going to upload the source code, so yeah deal with it I guess and it was also my first malware made in python and actually my first actual
+project I ever made! Made this a while ago, but a lot of time went into it. It was never meant to be a legit real world malware it was just for fun :D. 
+I dont know how many payloads this has.
